@@ -6,3 +6,6 @@
 - git add readme.md
 - git add app1.py app2.py
 - git add . 
+- gir branch # to check branch
+- branch name change to main git branch -M main
+- go to main file gitdemo and we can can how many commit
