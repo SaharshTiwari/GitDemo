@@ -9,3 +9,4 @@
 - gir branch # to check branch
 - branch name change to main git branch -M main
 - go to main file gitdemo and we can can how many commit
+- python3.9 -m venv myvenv
